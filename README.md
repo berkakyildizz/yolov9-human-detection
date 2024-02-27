@@ -4,8 +4,7 @@
 
 
 ```python
-def fonksiyon():
-    print("Bu bir çok satırlı kod bloğudur.")
+pip install yolov9pip
 ```
 
 ### What to do
