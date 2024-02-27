@@ -3,7 +3,9 @@
 # Installation
 
 
-'pip install yolov9pip'
-
+```python
+def fonksiyon():
+    print("Bu bir çok satırlı kod bloğudur.")
+```
 
 ### What to do
