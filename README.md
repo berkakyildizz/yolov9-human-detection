@@ -2,6 +2,6 @@
 
 # Installation
 
-pip install yolov9pip
+'''pip install yolov9pip'''
 
 ### What to do
