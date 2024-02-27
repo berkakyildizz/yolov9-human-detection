@@ -1,4 +1,4 @@
-### Using YoloV9 for Human Detection
+# Using YoloV9 for Human Detection
 ![aa](https://github.com/berkakyildizz/yolov9-human-detection/assets/129900162/5e9db71c-e8f2-4023-8ccb-5141689fd7f1)
 
 # Installation
@@ -25,6 +25,14 @@ model.classes = None # All Classes
 ![performance](https://github.com/berkakyildizz/yolov9-human-detection/assets/129900162/8bc6afa1-dd23-4c7b-bb1f-db693f86fa2c)
 
 
-### Acknowledgements
+# Acknowledgements
+
+<details>
+  <summary>Acknowledgments</summary>
+  
+  - [YoloV9-WongKinYu](https://github.com/WongKinYiu/yolov9)
+  - [KadirNar-Yolov9-pip](https://github.com/kadirnar/yolov9-pip)
+  
+</details>
 
 
