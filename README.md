@@ -1,5 +1,5 @@
 # Using YoloV9 for Human Detection
-![aa](https://github.com/berkakyildizz/yolov9-human-detection/assets/129900162/5e9db71c-e8f2-4023-8ccb-5141689fd7f1)
+![bb](https://github.com/berkakyildizz/yolov9-human-detection/assets/129900162/372630d0-8fbd-473d-afc0-e97e29067eaf)
 
 # Installation
 ### 1- First Step pip Yolov9 
